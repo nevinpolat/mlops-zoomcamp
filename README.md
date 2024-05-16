@@ -9,7 +9,7 @@ Cohort : 2024
 
 Course instructor: (https://github.com/alexeygrigorev)
 
-Link: https://github.com/DataTalksClub/mlops-zoomcamp
+Link: (https://github.com/DataTalksClub/mlops-zoomcamp)
 
 
 
