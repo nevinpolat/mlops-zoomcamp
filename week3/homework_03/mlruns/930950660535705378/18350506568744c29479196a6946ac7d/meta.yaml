@@ -1,0 +1,15 @@
+artifact_uri: file:///home/src/mlruns/930950660535705378/18350506568744c29479196a6946ac7d/artifacts
+end_time: 1717514924102
+entry_point_name: ''
+experiment_id: '930950660535705378'
+lifecycle_stage: active
+run_id: 18350506568744c29479196a6946ac7d
+run_name: bustling-moose-718
+run_uuid: 18350506568744c29479196a6946ac7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717514909724
+status: 3
+tags: []
+user_id: root
