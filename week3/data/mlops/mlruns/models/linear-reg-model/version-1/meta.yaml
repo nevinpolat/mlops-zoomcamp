@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1717514924097
+current_stage: None
+description: null
+last_updated_timestamp: 1717514924097
+name: linear-reg-model
+run_id: 18350506568744c29479196a6946ac7d
+run_link: null
+source: file:///home/src/mlruns/930950660535705378/18350506568744c29479196a6946ac7d/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///home/src/mlruns/930950660535705378/18350506568744c29479196a6946ac7d/artifacts/sklearn-model
+user_id: null
+version: 1
