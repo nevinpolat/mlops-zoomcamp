@@ -1,0 +1,15 @@
+{
+  "id": "02921651-5a23-44bf-8f3e-a6066a7a7d15",
+  "name": "March 2024 Green Taxi Data",
+  "description": "The projects calculates daily quantiles and other metrics",
+  "dashboard": {
+    "name": "March 2024 Green Taxi Data",
+    "panels": [],
+    "tabs": [],
+    "tab_id_to_panel_ids": {}
+  },
+  "team_id": null,
+  "date_from": null,
+  "date_to": null,
+  "created_at": "2024-06-26T18:23:12.271321"
+}
