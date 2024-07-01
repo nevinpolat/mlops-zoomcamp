@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from datetime import datetime
 
-import week6.batch_5 as batch_5
+import batch_5 as batch_5
 
 
 def dt(hour, minute, second=0):
@@ -40,7 +40,7 @@ df_input.to_parquet(
 )
 
 
-os.system('python batch_4.py 2023 1')
+os.system('python batch_5.py 2023 1')
 
 df_actual = pd.read_parquet(output_file, storage_options=options)
 print("Sum of predicted durations: {:.2f}".format(df_actual['predicted_duration'].sum()))
