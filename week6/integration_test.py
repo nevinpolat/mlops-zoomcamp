@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from datetime import datetime
 
-import batch_4
+import week6.batch_5 as batch_5
 
 
 def dt(hour, minute, second=0):
@@ -28,8 +28,8 @@ columns = ['PULocationID', 'DOLocationID', 'tpep_pickup_datetime', 'tpep_dropoff
 df_input = pd.DataFrame(data, columns=columns)
 
 
-input_file = batch_4.get_input_path(2023, 1)
-output_file = batch_4.get_output_path(2023, 1)
+input_file = batch_5.get_input_path(2023, 1)
+output_file = batch_5.get_output_path(2023, 1)
 
 df_input.to_parquet(
     input_file,
